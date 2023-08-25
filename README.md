@@ -6,3 +6,8 @@ I mostly did this as an excuse to prepare for an ominously vague CSSE2002 exam.
 By Isaac Toombes, for the UQCS 2023 Hackathon.
 
 CC-BY-SA
+
+
+### How to run
+I did this in IntelliJ, because I'm not sure how to run Gradle.
+Basically, get everything compiled, then run 'java CavernsOfCzernobog'.
