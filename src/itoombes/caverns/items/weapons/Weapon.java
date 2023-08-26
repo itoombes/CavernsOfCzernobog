@@ -5,4 +5,5 @@ public interface Weapon {
     int damage();
     int toHit();
     String getName();
+    String getDesc(); // Get item description
 }
